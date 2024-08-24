@@ -27,8 +27,8 @@
 		<section class="content-box box-1">
 			<div class="zerogrid">
 				<div class="row box-item"><!--Start Box-->
-					<h2>“Your awesome company slogan goes here, we have the best food around”</h2>
-					<span>Unc elementum lacus in gravida pellentesque urna dolor eleifend felis eleifend</span>
+					<h2>“<?php echo $sliders["slider_tag"];?>”</h2>
+					<span><?php echo $sliders["slider_tag2"];?></span>
 				</div>
 			</div>
 		</section>
@@ -37,11 +37,12 @@
 			<div class="zerogrid">
 				<div class="row wrap-box"><!--Start Box-->
 					<div class="header">
-						<h2>Welcome</h2>
+						<h2><?php echo $welcom["h1"];?></h2>
 						<hr class="line">
-						<span>text text text text text</span>
+						<span><?php echo $welcom["p"];?></span>
 					</div>
 					<div class="row">
+
 						<div class="col-1-3">
 							<div class="wrap-col">
 								<div class="box-item">
@@ -72,6 +73,7 @@
 								</div>
 							</div>
 						</div>
+						
 					</div>
 					<div class="row">
 						<div class="col-1-3">

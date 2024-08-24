@@ -89,9 +89,37 @@ $sliders = [
                           "desc"    =>  "চট্টগ্রাম থেকে জীবিকার সন্ধানে ঢাকায় আসা ফখরুদ্দিন বাবুর্চি ভিকারুননিসা নুন স্কুল এন্ড কলেজের নৈশপ্রহরীর চাকরি নেন।",
                         ]
                       ],
-  "slider_tag"    =>  "“Your awesome company slogan goes here, we have the best food around”-OF",
-  "slider_tag2"   =>  "Unc elementum lacus in gravida pellentesque urna dolor eleifend felis eleifend-OF",
+  "slider_tag"    =>  "“মজাই মজাই ঘুরে বেড়াই মজাই মজাই বিরিয়ানি খাই ”-OF",
+  "slider_tag2"   =>  "বিরিয়ানি খেতে অনেক মজা, চলো সবাই ঝাঁপিয়ে পড়ি বিরিয়ানি খেয়ে দেশ গড়ি -OF",
 
+];
+
+//Welcome Sec
+$welcom     =   [
+  "h1"      =>  "Welcome-OF",
+  "p"       =>  "text text text text text-OF",
+  "card"    => [
+                [
+                  "card_name"   => "Menu1",
+                  "img"         => "img/p1",
+                  "desc"        => "WEBLearn about the history, usage and variations of Lorem Ipsum",
+                  "btn"         =>  [
+                                      "name"      =>   "Order Now",
+                                      "link"      =>   "#",
+                                      "bg_color"  =>  "blue",  
+                                    ],
+                ],
+                [
+                  "card_name"   => "Menu2",
+                  "img"         => "img/p2",
+                  "desc"        => "WEBLearn about the history, usage and variations of Lorem Ipsum",
+                  "btn"         =>  [
+                                      "name"      =>   "Order Now",
+                                      "link"      =>   "#",
+                                      "bg_color"  =>  "red",
+                                    ],
+                ],       
+               ],
 ];
 
 
