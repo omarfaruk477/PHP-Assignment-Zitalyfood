@@ -69,13 +69,41 @@ $navBar     =   [
   ];
 
 
+//Slider
+//Sliders
+$sliders = [
+  "slider_sec"    => [
+                        [
+                          "img"     =>  "img/11.webp",
+                          "title"   =>  "হাজীর বিরিয়ানি",
+                          "desc"    =>  "হাজী বিরিয়ানি (এছাড়াও হাজীর বিরিয়ানি নামে পরিচিত) পুরান ঢাকায় অবস্থিত বাংলাদেশের একটি প্রাচীনতম রেস্তোরাঁ যারা ছাগলের মাংসের বিরিয়ানি,",
+                        ],
+                        [
+                          "img"     =>  "img/22.jpg",
+                          "title"   =>  "নান্না মিয়ার বার্গার",
+                          "desc"    =>  "১৯৬০-৬২ সালের দিকে মৌলভিবাজারের ছোট্ট একটি দোকানে পাতলা মাদুর বিছিয়ে বিরিয়ানি বিক্রির মাধ্যমে যাত্রা শুরু হাজী নান্না মিয়া বিরিয়ানির। ",
+                        ],
+                        [
+                          "img"     =>  "img/33.jpg",
+                          "title"   =>  "ফখরুদ্দিন বিরিয়ানি",
+                          "desc"    =>  "চট্টগ্রাম থেকে জীবিকার সন্ধানে ঢাকায় আসা ফখরুদ্দিন বাবুর্চি ভিকারুননিসা নুন স্কুল এন্ড কলেজের নৈশপ্রহরীর চাকরি নেন।",
+                        ]
+                      ],
+  "slider_tag"    =>  "“Your awesome company slogan goes here, we have the best food around”-OF",
+  "slider_tag2"   =>  "Unc elementum lacus in gravida pellentesque urna dolor eleifend felis eleifend-OF",
+
+];
 
 
 
 
 
 
-// Footer Section
+
+
+
+
+  // Footer Section
 $footer = [
        "testimonial"   =>  [
                             "title"   => "বাংলাদেশ (Bangladesh)",
